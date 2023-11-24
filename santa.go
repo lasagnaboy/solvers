@@ -14,9 +14,9 @@ func main() {
         fmt.Println("stockings:", *s)
 
         if *s {
-                strSantas = []string{"Anna", "Nina", "Laila", "John", "Nico", "Nicole", "Salim", "Susan"}               
+                strSantas = []string{"Name1", "Name2"}               
         } else {
-                strSantas = []string{"Anna", "John", "Nico", "Nicole", "Salim", "Susan"}
+                strSantas = []string{"Name1", "Name2"}
         }           
         var k int
         fmt.Printf("Arranging %d Santas ...\n\n", len(strSantas))

@@ -1,0 +1,24 @@
+{
+  "2025": {
+    "Anna": "Susan",
+    "Janet": "Tim",
+    "John": "Nicole",
+    "Nico": "John",
+    "Nicole": "Anna",
+    "Salim": "Nico",
+    "Susan": "Salim",
+    "Tim": "Janet"
+  },
+  "2026": {
+    "Anna": "Salim",
+    "Janet": "Susan",
+    "John": "Nico",
+    "Name1": "Name2",
+    "Name2": "Name1",
+    "Nico": "Anna",
+    "Nicole": "Tim",
+    "Salim": "Janet",
+    "Susan": "Nicole",
+    "Tim": "John"
+  }
+}
